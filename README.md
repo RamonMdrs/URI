@@ -26,4 +26,4 @@ public class Main {
 
 ### Support or Contact
 
-Having trouble with the codes? Check out our [discord](https://discord.gg/5zxZpfDPPt) or <ramonmdrs.dev@gmail.com> and we’ll help you sort it out.
+Having trouble with the codes? Check out our [discord](https://discord.gg/) or <ramonmdrs.dev@gmail.com> and we’ll help you sort it out.
